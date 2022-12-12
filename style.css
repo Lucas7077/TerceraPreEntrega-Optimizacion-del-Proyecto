@@ -1,0 +1,11 @@
+.contenedor {
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 5px black;
+}
